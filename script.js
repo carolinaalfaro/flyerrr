@@ -7,7 +7,3 @@ var stick = header.offsetTop;
 function myFunction() {
 	if (window.pageYOffset > sticky) 
 window.onscroll = function() {myFunction()};
-
-function skillPage(el) {
-	document.location.href = "https://ashleygonzalez9.github.io/essential_skills/Essential_Skills.html";
-}

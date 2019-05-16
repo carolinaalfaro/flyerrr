@@ -54,7 +54,7 @@ body {
 
 .parent {
 	display: block;
-	height: 50%;
+	height: 55%;
 	width: 100%;
 }
 .square_one {
@@ -170,12 +170,10 @@ ul {
 	top: 0;
 	width: 25%;
 	height: 12%;
-
 } 
 li{ 
 	float: left;
 } 
-
 li a {
 	display: flex;
 	border: 2px black solid;
@@ -187,7 +185,6 @@ li a {
 	width:100%
 	
 } 
-
 li a:hover{ 
 	width: 100%
 }
